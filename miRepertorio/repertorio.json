@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1234",
+    "titulo": "A Dios le pido",
+    "artista": "Juanes",
+    "tono": "Em"
+  },
+  {
+    "id": "5678",
+    "titulo": "Imagine",
+    "artista": "John Lennon",
+    "tono": "C"
+  }
+]
